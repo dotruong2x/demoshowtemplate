@@ -164,7 +164,7 @@ i {
     width: 83% !important;
   }
   .comment img {
-    width: 250px !important;
+    width: 49% !important;
   }
   .nav.navbar-nav.navbar-right li a {
     font-size: 14px !important;
@@ -587,7 +587,7 @@ i.icon {
   right: 0;
 }
 .comment img {
-  width: 300px;
+  width: 20%;
 }
 .info-contact h5,
 .info-customer h5 {
@@ -957,6 +957,10 @@ img {vertical-align: middle;}
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
+}
+.lienhe:hover{
+  background: #93db33;
+  border-radius: 100%;
 }
 
 /* On smaller screens, decrease text size */
